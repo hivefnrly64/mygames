@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "599af606-7ee5-4a75-9d8e-85b1e7a659ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mash_room_6": {
+      "ver": "1.0.3",
+      "uuid": "9892aa45-7bdd-449e-ae5d-103dc0e82ffd",
+      "rawTextureUuid": "599af606-7ee5-4a75-9d8e-85b1e7a659ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 8,
+      "trimY": 16,
+      "width": 64,
+      "height": 60,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
